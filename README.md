@@ -1,4 +1,4 @@
-![](https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png)
+![](https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png)![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/228/printf.png)
 
 ## printf()
 printf function by Leul Gebremariam and Misganaw Tenaw, were the function named "_printf" imitates the actual "printf" command located in the stdio.h library.
