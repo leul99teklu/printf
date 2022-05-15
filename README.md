@@ -14,3 +14,16 @@ The format tags prototype is the following:
 	%[flags][length]specifier
 
 If the program runs successfully, the **return value** is the amount of chars printed.
+
+The available convertion specifiers are:
++ %c: Prints a single character.
++ %s: Prints a string of characters.
+
+------------
+
+### Authors
+LEUL GEBREMARIAM AND MISGANAW TENAW.
+
+------------
+
+### End
